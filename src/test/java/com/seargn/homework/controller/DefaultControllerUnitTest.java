@@ -15,7 +15,7 @@ import org.springframework.http.ResponseEntity;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.*;
 
-public class DefaultControllerTest {
+public class DefaultControllerUnitTest {
 
     @Mock
     private EmployeeService employeeService;
